@@ -5,7 +5,19 @@
 Credits: @Gaulzave
 
 ## Description
-Python application for detecting impacts on a target using a webcam and a virtual target display.
+Python application for detecting impacts on a target using a webcam !
+
+
+## Controls
+
+### Terminal commands
+- `0` + Enter : toggle calibration mode
+- `1` + Enter : reset detected impacts
+
+### Mouse controls
+- Drag blue points to adjust the detection area
+- Drag the yellow point to move the target center
+
 
 ## Installation
 ```bash
